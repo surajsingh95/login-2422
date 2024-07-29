@@ -1,0 +1,35 @@
+# - COMMENT 
+# - Define key Values 
+name: ravi
+city: hyderbad
+zip: 500081
+
+# Dictionary 
+persons:
+  name: ravi
+  city: hyd
+  zip: 500081
+
+
+#Not a Dictionary
+persons:
+name: ravi
+city: hyd
+zip: 500081
+
+#List / Array 
+persons: # Dictionary
+ name: ravi
+ city: hyd
+ zip: 500081
+ hobbies: #list
+   -code
+   - test 
+   - deploy
+ collobrators:
+   - name: john 
+   - city: hyd
+
+
+
+
